@@ -5,6 +5,9 @@ look ![My image](username.github.com/repository/img/image.jpg)
 
 look ![My image](https://github.com/iulia-iordanescu/girls_go_to_jupyter/raw/iulia-iordanescu-patch-1/todeleteScreenshot%202022-03-26%20140433.png)
 
-hfgf ![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
+# Setting Up
 
-kbjhvjhv
+## Setting Up
+Step 1) Open your web browser and type in “repl.it” and click on the “sign up” option (circled red in the screenshot below)
+![](https://github.com/iulia-iordanescu/girls_go_to_jupyter/raw/iulia-iordanescu-patch-1/SS010.png)
+
