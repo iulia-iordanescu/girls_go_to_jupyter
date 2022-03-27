@@ -11,3 +11,4 @@ have done so, click “create account”.
 
 Step 3) Next, customize your profile! Enter a display name, a fun description about yourself and a profile picture. All are optional; you can skip this step. Once you are happy with your profile, click “looks good!”
 
+![](https://github.com/iulia-iordanescu/girls_go_to_jupyter/raw/iulia-iordanescu-patch-1/SS030.png)
