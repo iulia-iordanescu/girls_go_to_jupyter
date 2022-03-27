@@ -1,0 +1,9 @@
+#How To Add Images to Tutorial
+1) copy paste image into paint
+2) crop photo, save photo to following path: D:\crtUsers\Iulia\prj\girls_go_to_jupyter
+3) go to iulia-iordanescu-patch-1 directory, and choose "Add File"; then click "Upload files"
+4) click "choose your files" and choose pic 
+5) go to iulia-iordanescu-patch-1 directory, find name of pic and locate the "download" button in the right upperhand corner
+6) right click/ double tap on computer pad the "download" button and choose to "Copy link address"
+7) now go back to main branch and copy paste the line to insert images by replacing the URL within it with the copied link
+8) voila :)
