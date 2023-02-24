@@ -10,18 +10,23 @@ evaluate the performance of their models.
    
 ### Workshop Outline:  
 
-#### Part 1: Introduction to Machine Learning
+#### Part 0: Python basics
+
+How to start coding in python.   
+
+
+#### Part 1: Data Preprocessing
+
+Introduction to data cleaning and its importance in the machine learning process.  
+Common data cleaning techniques like handling missing values, dealing with outliers, feature engineering (data normalization).  
+Data summarization and statistics. Basic graphics.
+Live demonstration of data preprocessing using Python Pandas library.  
+
+#### Part 2: Introduction to Machine Learning
 
 Introduction to Machine Learning.
 Classification and regression
 Supervised vs unsupervised learning
-
-
-#### Part 2: Data Preprocessing
-
-Introduction to data cleaning and its importance in the machine learning process.
-Common data cleaning techniques like handling missing values, dealing with outliers, feature engineering (data normalization).
-Live demonstration of data preprocessing using Python Pandas library.
 
 
 #### Part 3: Classical Machine Learning algorithms: SVM, KNN
@@ -37,7 +42,8 @@ Live demonstration of ML classification using Python and Scikit-learn library.
 Explanation of how to evaluate the performance of the machine learning models.
 Overview of the different metrics such as sensitivity and specificity, ROC curve
 Live demonstration of model evaluation using Python and Scikit-learn library.
-
+  
+  
 #### Part 5: Q&A session
 
 
