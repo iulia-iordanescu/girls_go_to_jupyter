@@ -3,7 +3,7 @@
   
   
 ### Workshop Title:  
-Introduction to Machine Learning  
+Machine Learning: the latest superpower
   
   
 ### Workshop Objective:  
