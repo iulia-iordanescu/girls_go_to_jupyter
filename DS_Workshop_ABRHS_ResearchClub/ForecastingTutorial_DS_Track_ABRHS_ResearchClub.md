@@ -18,7 +18,7 @@ Presentation slides and a working notebook will be available on the workshop pag
 Interested students can access these resources at:  
 https://github.com/iulia-iordanescu/girls_go_to_jupyter/tree/main/DS_Workshop_ABRHS_ResearchClub
 
-This allows interested students to familiarize themselves with the presentation concepts beforehand, enabling them to focus on understanding and engaging with the material during the actual presentation. By providing these resources in advance, participants can make the most of the workshop and actively participate in discussions and activities.
+__This allows interested students to familiarize themselves with the presentation concepts beforehand, enabling them to focus on understanding and engaging with the material during the actual presentation. By providing these resources in advance, participants can make the most of the workshop and actively participate in discussions and activities.__
 
 ### Goals:
 The workshop aims to create a collaborative learning environment, promoting knowledge sharing and idea exchange. Participants will develop foundational skills in forecasting analysis, with an emphasis on understanding the quality of forecasted results. This knowledge will empower them to embark on their own data science journeys.
